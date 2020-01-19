@@ -19,7 +19,7 @@ N予備校でプログラミング勉強中
 - Github Pages
 
 # Works
-- [GitHub](https://github.com/YUKIYUKI2020)
+- [GitHub](https://github.com/Kiui2020)
 - 作った作品
   - [パワースポット診断](作品1のURL)
   - [秘密の匿名掲示板](https://mighty-mesa-45984.herokuapp.com/posts)
