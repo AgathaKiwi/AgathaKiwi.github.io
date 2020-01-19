@@ -5,7 +5,7 @@ N予備校でプログラミング勉強中
 <a class="twitter-timeline" data-width="400" data-height="600" href="https://twitter.com/N61140462?ref_src=twsrc%5Etfw">Tweets by N61140462</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Profile
-- YUKIYUKI
+- キウイ
 - 愛媛県出身
 - HTML,CSS,Javascript勉強中
 
