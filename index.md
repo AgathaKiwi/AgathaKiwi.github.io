@@ -24,7 +24,7 @@ N予備校でプログラミング勉強中
   - [パワースポット診断](作品1のURL)
   - [秘密の匿名掲示板](https://mighty-mesa-45984.herokuapp.com/posts)
   - colorful circles
-<iframe src="https://www.openprocessing.org/sketch/825178/embed/" width="400" height="300"></iframe>
+<iframe src="https://www.openprocessing.org/sketch/825178/embed/" width="600" height="450"></iframe>
 
 # Contact
 - [twitter](https://twitter.com/N61140462)
